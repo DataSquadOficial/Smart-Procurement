@@ -119,6 +119,25 @@ flowchart LR
 Los nombres de las tiendas son marcas de sus respectivos dueños. DataSquad no está afiliado a ellas ni cuenta con su patrocinio;
 la app solo consulta los precios que cada tienda publica en su página. Smart Procurement es una herramienta de uso personal.
 
+## Colabora
+
+¿Tienes una idea, encontraste un error o quieres sumarte? **Toda aportación cuenta**: las propuestas
+se revisan, se platican y las que encajan entran en las próximas versiones — con crédito para quien las propuso.
+
+- 💡 [Proponer una idea](../../issues/new?template=idea.yml)
+- 🐞 [Reportar un error](../../issues/new?template=error.yml)
+- 📧 Escríbenos a [datasquadoficial@gmail.com](mailto:datasquadoficial@gmail.com) para pruebas, alianzas o acceso al código.
+
+Lee la [guía para colaborar](CONTRIBUTING.md).
+
+### Colaboradores
+
+<a href="https://github.com/DataSquadOficial/Smart-Procurement/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DataSquadOficial/Smart-Procurement" alt="Colaboradores">
+</a>
+
+<sub>Hecho con <a href="https://contrib.rocks">contrib.rocks</a>.</sub>
+
 ## Licencia
 
 © 2026 DataSquad. Todos los derechos reservados. DataSquad Smart Procurement es software propietario;

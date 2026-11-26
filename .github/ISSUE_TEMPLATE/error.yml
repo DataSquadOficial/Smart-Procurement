@@ -1,0 +1,30 @@
+name: 🐞 Reportar un error
+description: Algo no funciona como esperabas en DataSquad Smart Procurement
+title: "[Error] "
+labels: ["error"]
+body:
+  - type: textarea
+    id: que
+    attributes:
+      label: ¿Qué pasó?
+    validations:
+      required: true
+  - type: textarea
+    id: pasos
+    attributes:
+      label: Pasos para repetirlo
+      placeholder: "1. Abrí…  2. Di clic en…  3. Apareció…"
+    validations:
+      required: true
+  - type: textarea
+    id: esperado
+    attributes:
+      label: ¿Qué esperabas que pasara?
+  - type: input
+    id: version
+    attributes:
+      label: Versión y Windows
+      placeholder: "Ej.: v0.3, Windows 11"
+  - type: markdown
+    attributes:
+      value: "No incluyas datos sensibles (clientes, contraseñas, claves). Si son necesarios, escríbenos a datasquadoficial@gmail.com."

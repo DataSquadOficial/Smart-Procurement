@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📧 Escribir a DataSquad
+    url: https://datasquad.pages.dev/contacto/
+    about: Alianzas, pruebas o acceso al código.
+  - name: 🌐 Sitio web
+    url: https://datasquad.pages.dev
+    about: Descargas, videos y documentación.

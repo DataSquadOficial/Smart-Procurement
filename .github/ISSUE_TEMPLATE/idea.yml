@@ -1,0 +1,33 @@
+name: 💡 Idea o función nueva
+description: Propón algo para una próxima versión de DataSquad Smart Procurement
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: ¡Gracias por proponer! Las ideas que encajan entran a la hoja de ruta y quien las propone aparece en Colaboradores.
+  - type: textarea
+    id: problema
+    attributes:
+      label: ¿Qué problema resuelve?
+      description: Cuéntanos la situación o la necesidad.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Tu idea
+      description: ¿Cómo te imaginas que funcione?
+    validations:
+      required: true
+  - type: input
+    id: uso
+    attributes:
+      label: ¿En qué lo usarías?
+      placeholder: "Ej.: banca, retail, construcción, oficina…"
+  - type: checkboxes
+    id: contacto
+    attributes:
+      label: Contacto
+      options:
+        - label: Me gustaría que me contacten para platicar la idea.
